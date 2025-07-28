@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "challenge_info": {
+            "challenge_id": "round_1b_003",
+            "test_case_name": "create_manageable_forms",
+            "description": "Creating manageable forms"
+        },
+        "documents": [
+            {
+                "filename": "Learn Acrobat - Create and Convert_1.pdf",
+                "title": "Learn Acrobat - Create and Convert_1"
+            },
+            {
+                "filename": "Learn Acrobat - Create and Convert_2.pdf",
+                "title": "Learn Acrobat - Create and Convert_2"
+            },
+            {
+                "filename": "Learn Acrobat - Edit_1.pdf",
+                "title": "Learn Acrobat - Edit_1"
+            },
+            {
+                "filename": "Learn Acrobat - Edit_2.pdf",
+                "title": "Learn Acrobat - Edit_2"
+            },
+            {
+                "filename": "Learn Acrobat - Export_1.pdf",
+                "title": "Learn Acrobat - Export_1"
+            },
+            {
+                "filename": "Learn Acrobat - Export_2.pdf",
+                "title": "Learn Acrobat - Export_2"
+            },
+            {
+                "filename": "Learn Acrobat - Fill and Sign.pdf",
+                "title": "Learn Acrobat - Fill and Sign"
+            },
+            {
+                "filename": "Learn Acrobat - Generative AI_1.pdf",
+                "title": "Learn Acrobat - Generative AI_1"
+            },
+            {
+                "filename": "Learn Acrobat - Generative AI_2.pdf",
+                "title": "Learn Acrobat - Generative AI_2"
+            },
+            {
+                "filename": "Learn Acrobat - Request e-signatures_1.pdf",
+                "title": "Learn Acrobat - Request e-signatures_1"
+            },
+            {
+                "filename": "Learn Acrobat - Request e-signatures_2.pdf",
+                "title": "Learn Acrobat - Request e-signatures_2"
+            },
+            {
+                "filename": "Learn Acrobat - Share_1.pdf",
+                "title": "Learn Acrobat - Share_1"
+            },
+            {
+                "filename": "Learn Acrobat - Share_2.pdf",
+                "title": "Learn Acrobat - Share_2"
+            },
+            {
+                "filename": "Test Your Acrobat Exporting Skills.pdf",
+                "title": "Test Your Acrobat Exporting Skills"
+            },
+            {
+                "filename": "The Ultimate PDF Sharing Checklist.pdf",
+                "title": "The Ultimate PDF Sharing Checklist"
+            }
+        ],
+        "persona": {
+            "role": "HR professional"
+        },
+        "job_to_be_done": {
+            "task": "Create and manage fillable forms for onboarding and compliance."
+        }
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Validate documents",
+            "importance_rank": 1,
+            "page_number": 20
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "Page 14 Content",
+            "importance_rank": 2,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "Page 14 Content",
+            "importance_rank": 3,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "2. Under Categories , select Identity .",
+            "importance_rank": 4,
+            "page_number": 28
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "2. Under Categories , select Identity .",
+            "importance_rank": 5,
+            "page_number": 28
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "\u2022 Validate all signatures, confirming the identity of everyone who signed the document \u2022 Validate document integrity by tracking all previously signed versions of a document to verify changes made during the document\u2019s lifecycle",
+            "page_number": 20
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "If you have questions about the document, scroll to the bottom, and select Ask AI",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "If you have questions about the document, scroll to the bottom, and select Ask AI",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "3. Enter your name, organization, and email address to create your profile.",
+            "page_number": 28
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "3. Enter your name, organization, and email address to create your profile.",
+            "page_number": 28
+        }
+    ]
+}
